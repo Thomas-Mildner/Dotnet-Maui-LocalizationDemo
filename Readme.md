@@ -3,9 +3,9 @@
 This is a sample .NET MAUI project that showcases how to implement localization in a cross-platform application using resource files.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="images/Resized/LocalizationSample-English.jpg" alt="EnglishDemo" style="width: 400px; margin-right: 10px;" />
-    <img src="images/Resized/LocalizationSample-French.jpg" alt="FrenchDemo" style="width: 400px; margin-right: 10px;" />
-    <img src="images/Resized/LocalizationSample-German.jpg" alt="GermanDemo" style="width: 400px;" />
+    <img src="images/LocalizationSample-English.jpg" alt="EnglishDemo" style="width: 400px; margin-right: 10px;" />
+    <img src="images/LocalizationSample-French.jpg" alt="FrenchDemo" style="width: 400px; margin-right: 10px;" />
+    <img src="images/LocalizationSample-German.jpg" alt="GermanDemo" style="width: 400px;" />
 </div>
 
 
