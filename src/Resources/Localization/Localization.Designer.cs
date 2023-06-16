@@ -22,7 +22,7 @@ namespace LocalizationSample.Resources.Localization {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Localization {
+    public class Localization {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
@@ -61,11 +61,20 @@ namespace LocalizationSample.Resources.Localization {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to Click me.
         /// </summary>
         internal static string ClickMeButton {
             get {
                 return ResourceManager.GetString("ClickMeButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string ClickMeButtonCounterText {
+            get {
+                return ResourceManager.GetString("ClickMeButtonCounterText", resourceCulture);
             }
         }
         

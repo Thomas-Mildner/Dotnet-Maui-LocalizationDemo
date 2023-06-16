@@ -20,4 +20,7 @@
 	<data name="ClickMeButton" xml:space="preserve">
 		<value>Klick mich</value>
 	</data>
+	<data name="ClickMeButtonCounterText" xml:space="preserve">
+		<value>{0} mal geklickt</value>
+	</data>
 </root>

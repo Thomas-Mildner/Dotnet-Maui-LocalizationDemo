@@ -126,4 +126,7 @@
   <data name="ClickMeButton" xml:space="preserve">
 	  <value>Click me</value>
   </data>
+  <data name="ClickMeButtonCounterText" xml:space="preserve">
+	  <value>Clicked {0} time</value>
+  </data>
 </root>
